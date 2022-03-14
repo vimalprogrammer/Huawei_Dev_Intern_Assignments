@@ -1,4 +1,4 @@
-package Phase_2_Assignment_1 ;
+package Phase1-Assignment1;
 
 import java.util.ArrayList;
 
