@@ -1,4 +1,4 @@
-package Phase1-Assignment1;
+package Phase1_Assignment1;
 
 import java.util.ArrayList;
 import java.util.Scanner;
