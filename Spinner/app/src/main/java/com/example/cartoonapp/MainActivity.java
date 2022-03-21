@@ -9,7 +9,6 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-
 public class MainActivity extends AppCompatActivity implements
         AdapterView.OnItemSelectedListener {
     String[] cartoons = { "Ben 10", "Ninja Hattori", "Doraemon", "kick buttowski", "phineas and ferb"};
